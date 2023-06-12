@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+  }
+
+.custom-badge {
+    font-size: 200px;
+  }
+
+.counter-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 1rem;
+}
+
+.button-group {
+    margin-top: 1rem;
+    display: flex;
+    gap: 1rem;
+}
