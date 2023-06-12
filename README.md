@@ -1,5 +1,3 @@
-
-
 # Tally App
 
 This is a simple Tally App built using the Shoelace component library and JavaScript.
